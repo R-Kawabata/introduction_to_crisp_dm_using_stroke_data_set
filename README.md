@@ -1,7 +1,6 @@
 # Introduction to CRISP-DM using Stroke data set
 
 This is a notebook to practice the CRISP-DM process and understand how we can apply it using, as example of real data set, stroke prediction data set available on Kaggle website.
-It might contain mistakes, so please be aware of it.
 I hope this notebook can somehow help you to understand the CRISP-DM methodology.
 
 # Link to data set
