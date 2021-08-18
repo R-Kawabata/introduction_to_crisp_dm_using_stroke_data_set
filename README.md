@@ -27,10 +27,10 @@ The project should run with libraries included in the Anaconda distribution.
 #### Dataset directory
 ```healthcare-dataset-stroke-data.csv:``` CSV file containing the patient data
 
-# Link to data set
+## Link to data set
 [Kaggle Stroke Prediction Data set](https://www.kaggle.com/fedesoriano/stroke-prediction-dataset)
 
-## Data set information
+### Data set information
 1. **id**: unique identifier
 2. **gender**: "Male", "Female" or "Other"
 3. **age**: age of the patient
@@ -46,5 +46,5 @@ The project should run with libraries included in the Anaconda distribution.
 
 **Note:** *Unknown* in smoking_status means that the information is unavailable for this patient
 
-# Results
+## Results
 The results can be find in my blog post [Here](https://medium.com/@raphaelkawabata/introduction-to-crisp-dm-using-one-of-most-used-data-mining-methodologies-9ce64183fc83)
